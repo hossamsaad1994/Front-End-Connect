@@ -1,0 +1,80 @@
+/* .hossam{
+    background: url(../logo/images1.jpeg);
+    background-size: cover;
+    background-color:antiquewhite;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    padding: 0px 0px;
+}
+ */
+
+.hossam h3{
+    color: black;
+    font-size: 40px;
+    line-height: 45px;
+    font-weight: bold;
+    width: 18%;
+    background-color: antiquewhite;
+}
+
+.text{
+    width: 500px;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    color:darkblue;
+    font-weight: bold;
+    font-size: 25px;
+    text-transform: capitalize;
+    padding-left: 1%;
+    margin-left: 1%;
+}
+
+.submit{
+    width: 150px;
+    height: 50px;
+    background-color: darkslateblue;
+    border: 1px solid royalblue;
+    box-sizing: content-box;
+    text-align: center;
+    color: aqua;
+    font-weight: bold;
+    font-size:25px;
+    text-transform: uppercase;
+    padding-left: 1%;
+    margin-left: 1%;
+
+}
+
+.hossam h4{
+    
+    color: black;
+    font-size: 40px;
+    line-height: 45px;
+    font-weight: bold;
+    width: 5%;
+    background-color: antiquewhite;
+}
+
+.hossam p{
+    color: darkblue;
+    font-size: 30px;
+    padding-left: 2%;
+    margin-left: 2%;
+}
+
+.hossam button{
+    width: 150px;
+    height: 50px;
+    background-color: darkslateblue;
+    border: 1px solid royalblue;
+    box-sizing: border-box;
+    text-align: center;
+    color: aqua;
+    margin-left: 1%;
+    padding-left: 1%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
